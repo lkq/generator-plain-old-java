@@ -1,0 +1,23 @@
+{
+  "name": "generator-plain-old-java",
+  "version": "0.1.0",
+  "description": "a yeoman generator for plain old java application",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "yeoman",
+    "yo",
+    "generator",
+    "java"
+  ],
+  "author": "kliu",
+  "license": "MIT",
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^3.2.0"
+  }
+}
